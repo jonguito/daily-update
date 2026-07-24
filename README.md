@@ -9,14 +9,14 @@ Script simples em **Python** para registrar e acompanhar a produtividade diária
 - Futuro suporte a persistência de dados em JSON  
 
 ##  Tecnologias
-- **Linguagem:** Python 3  
+- **Linguagem:** Python   
 - **Bibliotecas:** apenas bibliotecas padrão do Python  
 
 ##  Próximos Passos
 -  Adicionar persistência de dados em JSON  
 -  Implementar estatísticas e relatórios simples  
  
----
 
-Feito com 💪 e ☕ por [jonguito](https://github.com/jonguito)
+
+
 
