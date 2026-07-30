@@ -1,22 +1,26 @@
-# 🕒 Daily Update
+# Daily Update
 
-Script simples em **Python** para registrar e acompanhar a produtividade diária — estudo, treino e cardio.  
+Aplicação de terminal em Python para registrar estudo, academia e cardio.
 
-##  Funcionalidades
-- Registra tarefas diárias (estudo, academia e cardio)  
-- Exibe um resumo direto no console  
-- Estrutura organizada usando uma classe (`tarefas`)  
-- Futuro suporte a persistência de dados em JSON  
+## Como executar
 
-##  Tecnologias
-- **Linguagem:** Python   
-- **Bibliotecas:** apenas bibliotecas padrão do Python  
+~~~bash
+git clone https://github.com/jonguito/daily-update.git
+cd daily-update
+python update.py
+~~~
 
-##  Próximos Passos
--  Adicionar persistência de dados em JSON  
--  Implementar estatísticas e relatórios simples  
- 
+Responda S ou N para cada hábito.
 
+## Próximos passos
 
+- Persistir os registros em JSON.
+- Gerar estatísticas e relatórios simples.
 
+## Tecnologias
 
+Python e biblioteca padrão.
+
+## Licença
+
+Disponível para estudo e aprendizado.
